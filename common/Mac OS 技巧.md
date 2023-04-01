@@ -44,3 +44,11 @@ MAC OS X环境的所有配置以及加载顺序如下：
 - ~/.bashrc （或者~/.zshrc ）是bash shell打开时候加载
 
 - ~/.bashrc （或者~/.zshrc）的区别，zsh终端命令工具的全局变量设置，和bashrc区别是 默认很多linux系统是base，就配置在bashrc里，如里是使用zsh 就配置在 zshrc里，zsh是比bash更强大shell
+
+
+
+## 显示隐藏文件
+
+```shell
+command + shift + .
+```
