@@ -185,8 +185,6 @@ user repository: ${user.home}/.m2/repository
 
 ![](https://raw.githubusercontent.com/0x2552/images-repo/main/2023/04/01-14-52-09-2023-04-01-14-52-06-image.png)
 
-
-
 ## Maven 私服
 
 ### 仓库分类
@@ -252,4 +250,6 @@ user repository: ${user.home}/.m2/repository
 
 
 
+### Maven 冷知识之 <java.version> 的作用
 
+![](https://raw.githubusercontent.com/0x2552/images-repo/main/2023/04/05-01-10-47-2023-04-05-01-10-43-image.png)
